@@ -1,0 +1,7 @@
+export const INITIAL_FORCE = 5880.000000000001 
+export const INITIAL_CAR_MASS = 3000
+export const INITIAL_WHEEL_FRICTION = 0.4
+export const INITIAL_WHEEL_ROTATION = 0
+export const INITIAL_AIR_DIRECTION = "front"
+export const INITIAL_AIR_FORCE = 0
+export const INITIAL_EXPECTED_VELOCITY = 110
