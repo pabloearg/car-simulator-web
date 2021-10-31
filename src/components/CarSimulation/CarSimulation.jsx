@@ -135,7 +135,7 @@ function CarSimulation() {
           />
           <CarInput
             onChange={onChange}
-            text={`Whell Friction ${wheelFriction}`}
+            text={`Wheel Friction ${wheelFriction}`}
             type={InputType.wheelFriction}
             value={wheelFriction}
             params={{
@@ -171,7 +171,7 @@ function CarSimulation() {
       </div>
       {/* <CarInput
         onChange={onChange}
-        text={`Whell Rotation ${wheelRotation}`}
+        text={`Wheel Rotation ${wheelRotation}`}
         type={InputType.wheelRotation}
         value={wheelRotation}
       /> */}
